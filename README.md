@@ -1,4 +1,4 @@
 # Git and Github Assignment
-### Name: Amit Baral
+### Name: Amit Kunwar
 ### College: University of Colorado
 ### Email: baralamit01@gmail.com
